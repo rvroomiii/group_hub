@@ -2,7 +2,7 @@
 
 ## Purpose
 
-### Mortality from COVID-19 shows a strong relationship with age and pre-existing medical conditions, as does mortality from other causes. We aimed to investigate how specific factors (age, pre-existing medical conditions, ethnicity, gender) are deferentially associated with COVID-19 mortality as compared to mortality from causes other than COVID-19.
+### The main goal of this project is to build a machine learning model that, given a Covid-19 patient's current symptom, status, and medical history, will predict whether the patient is in high risk or not.
 
 ## Summary
 
