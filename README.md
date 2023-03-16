@@ -15,8 +15,7 @@ sex: 1 for female and 2 for male. <br> age: of the patient.<br> classification: 
 ### Our analysis of the data was conducted in Jupyter Notebook and is located in the <a href="https://github.com/rvroomiii/group_hub/blob/main/data_analysis/COVID_dataAnalysis_final.ipynb">COVID_DataAnalysis_Final.ipynb</a> file.<br>
 Our goal was to review the following:<br>
 <ul><li><i>Predicting a person’s likelihood to contract Covid death vs mortality based Supervised ML<br>
-<li>Conduct a linear regression: Calculate precision, accuracy, recall<br>
-<li>Use five different machine learning models<br>
+<li>Use six different machine learning models<br>
 <li>Use a checklist of existing conditions -> correlation to % of Covid mortality</i></li></ul><br>
 
 
