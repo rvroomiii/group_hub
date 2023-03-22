@@ -11,13 +11,16 @@ The main goal of this project is to build a machine learning model that, given a
 
 The tools listed below were utilized in completing the analysis:<br>
 <ul><i>
-Python <br>
+Python<br>
 Pandas<br>
 Matplotlib<br>
 NumPy<br>
 SciPy<br>
 Jupyter Notebook<br>
-Visual Code Studio</ul></i>
+Visual Code Studio<br>
+Tableau<br>
+HTML<br>
+PostgreSQL</ul></i>
 
 The dataset was provided by the Mexican government <a href="https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico">(Data link)</a>. 
 
