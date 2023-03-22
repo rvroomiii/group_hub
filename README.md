@@ -43,8 +43,8 @@ All features were ranked following our analysis and it was determined that pneum
 
 ![image](https://user-images.githubusercontent.com/114262970/226057103-83acd719-d884-4ff6-854f-8a1a4dfc000a.png)
 
-## Tableau Story
-https://public.tableau.com/app/profile/jialin.huang3459/viz/CovidmortalitygroupprojectMar-2023/Story1
+## Website playground
+https://rvroomiii.github.io/group_hub/
 
 
 ## Summary
