@@ -32,7 +32,7 @@ The dataset was provided by the Mexican government <a href="https://datos.gob.mx
 Our analysis of the data was conducted in Jupyter Notebook and is located in the <a href="https://github.com/rvroomiii/group_hub/blob/main/data_analysis/COVID_dataAnalysis_final.ipynb">COVID_DataAnalysis_Final.ipynb</a> file.<br>
 Our goal was to review the following:<br>
 <ul><li><i>Predicting a person’s likelihood to contract Covid death vs mortality based Supervised ML<br>
-<li>Use Five different machine learning models<br>
+<li>Use Six different machine learning models<br>
 <li>Use a checklist of existing conditions -> correlation to % of Covid mortality</i></li></ul><br>
 
 
@@ -42,7 +42,7 @@ PNEUMONIA, AGE, PREGNANT, DIABETES, COPD, ASTHMA, INMSUPR, HYPERTENSION, OTHER_D
 
 ## Results
 
-All features were ranked following our analysis and it was determined that pneumonia and age were the two top features at 54% and 20% respectively.
+All features were ranked following our analysis and it was determined that pneumonia and age were the two top features -how useful the model found each feature in trying to predict the target. This gives us the opportunity to analyse what contributed to the accuracy of the model and what features were just noise.
 
 ![image](https://user-images.githubusercontent.com/114262970/226057103-83acd719-d884-4ff6-854f-8a1a4dfc000a.png)
 
@@ -54,4 +54,4 @@ https://rvroomiii.github.io/group_hub/
 
 -   Different ML models were trained on top of these 14 features to predict patients' mortality or discharge outcomes. From different ML models (e.g., Logistic Regression, random forest, Gradient Boosting Classifier, support vector machine, AdaBoost, and neural network), the logistic Regression model performance better with an accuracy of 91.4% followed by SVM (91.3%) and Deep learning (91.2%).
 
--   The trained models were then tested on the test dataset. Again, four models (Logistic Regression, Gradient Boosting Classifierneural network) had the best performance with an accuracy of 91.2%, followed by random forest (91.1%) accuracy rate. SVM has the least accuracy rate of 10.4%. Easy Ensemble AdaBoost Classifier model is the only model with high sensitivity rate of 84% .
+-   The trained models were then tested on the test dataset. Again, four models (Logistic Regression, Gradient Boosting Classifierneural network) had the best performance with an accuracy of 91.2%, followed by random forest (91.1%) accuracy rate. SVM has the least accuracy rate of 91.1%. Easy Ensemble AdaBoost Classifier model is the only model with high sensitivity rate of 89.6% .
